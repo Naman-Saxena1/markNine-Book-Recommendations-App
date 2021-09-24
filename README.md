@@ -1,2 +1,2 @@
 # markNine-Book-Recommendations-App
-Created with CodeSandbox
+This is books recommendation app created using React useState and simple HTML-CSS.
